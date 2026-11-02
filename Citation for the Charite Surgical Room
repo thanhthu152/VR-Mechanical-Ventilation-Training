@@ -1,0 +1,13 @@
+This is a photogrammetric reconstruction of an operating room of the Charité University Hospital in Berlin.
+
+Please also check out this model on our Digital Surgery Sketchfab Account
+
+If you use this model in your project, please cite our publication: https://pubmed.ncbi.nlm.nih.gov/35137646/
+
+Use this textblock for the citation:
+
+Queisner M, Pogorzhelskiy M, Remde C, Pratschke J, Sauer IM. VolumetricOR: A New Approach to Simulate Surgical Interventions in Virtual Reality for Training and Education. Surg Innov. 2022 Jun;29(3):406-415. doi: 10.1177/15533506211054240. Epub 2022 Feb 9. PMID: 35137646; PMCID: PMC9438748.
+
+More about our research: http://experimental-surgery.de/digitalsurgery/
+
+The paper explores the concept of letting surgical stuff train in a virtual operating setting. This is one of several general ORs in the Charité Campus Mitte (CCM), scanned in 2018. Shot with Nikon D3400 (500 images), reconstructed in Metashape, refined in Blender.
